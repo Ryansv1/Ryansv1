@@ -1,7 +1,7 @@
 ### Opa! Me chamo Ryan! 🥳
 - 📖 Atualmente aluno no Instituto Federal Catarinense
 - 🕸️ Learning JS e C#
-- <img src="/img/discord.png"> Discord: Ryaan#1743</img>
+-  💎 Discord: Ryaan#1743
 ##
 
 <div align="center">
