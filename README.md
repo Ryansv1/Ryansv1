@@ -28,6 +28,3 @@ Redes Sociais:
   <img align="center" alt="Js-icon"ht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" >
 </div>  
 
-##
-
-![Snake animation](https://github.com/Ryansv1/Ryansv1/blob/output/github-contribution-grid-snake.svg)
