@@ -14,17 +14,16 @@ Redes Sociais:
 🔥 "Isso inclui vocês, que antes estavam longe de Deus. Eram seus inimigos, dele separados por seus maus pensamentos e ações. Agora, porém, ele os reconciliou consigo por meio da morte do Filho no corpo físico. Como resultado, vocês podem se apresentar diante dele santos, sem culpa e livres de qualquer acusação" Cl 1:21-22
 - Jesus é bom. 
 ##
-
-<div align="center">
-  <a href="https://github.com/Ryansv1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryansv1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryansv1&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center" style="display: inline">
+  <img src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif" frameBorder="4" width="600" align="center"></img>
 </div>
 <div align="center" style="display: inline_block;"><br>
   <img align="center" alt="HTML-icon" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS-icon"ht="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js-icon"ht="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js-icon"ht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Js-icon"ht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" >
+  <img align="center" alt="React-icon" ht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Nodejs-icon" ht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" >
+  <img align="center" alt="Next-icon" ht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img align="center" alt="MongoDB-icon" ht="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
 </div>  
 
